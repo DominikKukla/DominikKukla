@@ -12,7 +12,8 @@ Currently enhancing my skills in Excel, Python, and Power BI, I am on a quest to
 
 ### 💡 Projects
 
-- **(WIP) School Commute Project:** Data analysis real-world project, being done voluntarily for my school with intention to enhance commute among my school's students and practicing my abilities to obtain, process, and visualize data. [View Repository](https://github.com/DominikKukla/school-commute)
+At the moment, I am acquiring all the essential data analysis knowledge.
+Projects will spring up as time passes and my skills develop.
 
 ### 🛠 Tech Stack
 
