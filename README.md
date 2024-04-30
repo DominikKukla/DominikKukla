@@ -21,7 +21,7 @@ I've worked with a variety of tools and technologies in the realm of data analys
 
 - **Programming Languages:** Python | SQL
 - **Data Analysis:** Excel | pandas
-- **Data Visualization:** Excel | Power Bi | matplotlib | seaborn 
+- **Data Visualization:** Excel | Power Bi
 
 ### 🤝 Let's Connect
 
