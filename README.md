@@ -12,8 +12,7 @@ Currently enhancing my skills in Excel, Python, and Power BI, I am on a quest to
 
 ### 💡 Projects
 
-At the moment, I am acquiring all the essential data analysis knowledge.
-Projects will spring up as time passes and my skills develop.
+- **Electronic Retailer** - Excel Data Preparation, Analysis and Visualizaion Project | [View Repository](https://github.com/DominikKukla/Electronics-Retailer-Excel)
 
 ### 🛠 Tech Stack
 
