@@ -12,7 +12,7 @@ Currently enhancing my skills in Excel, Python, and Power BI, I am on a quest to
 
 ### 💡 Projects
 
-- **Electronic Retailer** - Excel Data Preparation, Analysis and Visualizaion Project | [View Repository](https://github.com/DominikKukla/Electronics-Retailer-Excel)
+- **Electronics Retailer** - Excel Data Preparation, Analysis and Visualizaion Project | [View Repository](https://github.com/DominikKukla/Electronics-Retailer-Excel)
 
 ### 🛠 Tech Stack
 
