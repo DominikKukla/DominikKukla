@@ -12,7 +12,7 @@ Currently enhancing my skills in Excel, Python, and Power BI, I am on a quest to
 
 ### 💡 Projects
 
-- **Electronics Retailer** - Excel Data Preparation, Analysis and Visualizaion Project | [View Repository](https://github.com/DominikKukla/Electronics-Retailer-Excel)
+- **Electronics Retailer** - Highly polished Excel dashboard project | [View Repository](https://github.com/DominikKukla/Electronics-Retailer-Excel)
 
 ### 🛠 Tech Stack
 
@@ -21,6 +21,7 @@ I've worked with a variety of tools and technologies in the realm of data analys
 - **Programming Languages:** Python | SQL
 - **Data Analysis:** Excel | pandas
 - **Data Visualization:** Excel | Power Bi
+- **Misc/Minor Help** ChatGPT
 
 ### 🤝 Let's Connect
 
