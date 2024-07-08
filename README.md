@@ -13,7 +13,7 @@ Currently enhancing my skills in Excel, Python, and Power BI, I am on a quest to
 ### 💡 Projects
 
 - **Electronics Retailer** - Highly polished Excel dashboard project | [View Repository](https://github.com/DominikKukla/Electronics-Retailer-Excel)
-- **Nashville Housing** - SQL data cleaning, preparation and EDA project | [View Repository](https://github.com/DominikKukla/Nashville-Housing-SQL)
+- **Nashville Housing** - SQL data cleaning and EDA project | [View Repository](https://github.com/DominikKukla/Nashville-Housing-SQL)
 
 ### 🛠 Tech Stack
 
