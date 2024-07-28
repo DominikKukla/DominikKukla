@@ -12,7 +12,7 @@ Currently enhancing my skills in Excel, SQL, Python, and Power BI, I am on a que
 
 ### 💡 Projects
 
-- **Audible Cleaning** - Excel data cleaning fundamentals project| [View Repository](https://github.com/DominikKukla/Audible-Cleaning-Excel)
+- **Audible Cleaning** - Excel data cleaning fundamentals project | [View Repository](https://github.com/DominikKukla/Audible-Cleaning-Excel)
 - **Electronics Retailer** - Highly polished Excel dashboard project | [View Repository](https://github.com/DominikKukla/Electronics-Retailer-Excel)
 - **Nashville Housing** - SQL data cleaning and EDA project | [View Repository](https://github.com/DominikKukla/Nashville-Housing-SQL)
 
