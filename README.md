@@ -20,8 +20,8 @@ Currently enhancing my skills in Excel, Python, and Power BI, I am on a quest to
 I've worked with a variety of tools and technologies in the realm of data analysis:
 
 - **Programming Languages:** Python | SQL
-- **Data Analysis:** Excel | pandas
-- **Data Visualization:** Excel | Power Bi
+- **Data Analysis:** Excel
+- **Data Visualization:** Excel
 - **Misc/Minor Help** ChatGPT
 
 ### 🤝 Let's Connect
