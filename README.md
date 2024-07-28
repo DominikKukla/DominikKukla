@@ -8,7 +8,7 @@ A passionate learner from the field of Mathematics and Data Analysis, diving dee
 
 ### 🌱 What I'm Focused On
 
-Currently enhancing my skills in Excel, Python, and Power BI, I am on a quest to harness the power of data. Moreover, I am on my way to acquire C1 lever English certification. I'm especially interested in applying my knowledge in real-world projects that can make a difference.
+Currently enhancing my skills in Excel, SQL, Python, and Power BI, I am on a quest to harness the power of data. Moreover, I am on my way to acquire C1 lever English certification. I'm especially interested in applying my knowledge in real-world projects that can make a difference.
 
 ### 💡 Projects
 
