@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dominik
 
-## Aspiring Data Analyst
+## Curious Data Analyst
 
 A passionate learner from the field of Mathematics and Data Analysis, diving deep into data to uncover insights and make data-driven decisions.
 
