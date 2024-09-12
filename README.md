@@ -10,7 +10,10 @@ A passionate learner from the field of Mathematics and Data Analysis, diving dee
 
 Currently enhancing my skills in Excel, SQL, Python, and Power BI, I am on a quest to harness the power of data. Moreover, I am on my way to acquire C1 lever English certification. I'm especially interested in applying my knowledge in real-world projects that can make a difference.
 
-### 💡 Projects
+### ✨ Featured - Better Tomorrow for a Student from Greater Poland
+Excel real-life dashboard project made in liaise with the Youth Assembly of the Greater Poland Voivodeship | [Veiw Repository](https://github.com/DominikKukla/Yough-Assembly-Excel)
+
+### 💡 Other Projects
 
 - **Audible Cleaning** - Excel data cleaning fundamentals project | [View Repository](https://github.com/DominikKukla/Audible-Cleaning-Excel)
 - **Electronics Retailer** - Highly polished Excel dashboard project | [View Repository](https://github.com/DominikKukla/Electronics-Retailer-Excel)
