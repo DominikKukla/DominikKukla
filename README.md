@@ -2,7 +2,7 @@
 
 ## Curious Data Analyst
 
-A passionate learner from the field of Mathematics and Data Analysis, diving deep into data to uncover insights and make data-driven decisions.
+A passionate learner from the field of Mathematics and Data Analysis at Wrocław University of Science and Technology, diving deep into data to uncover insights and make data-driven decisions.
 
 ---
 
