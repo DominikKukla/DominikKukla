@@ -24,8 +24,8 @@ Excel real-life dashboard project made in liaise with the Youth Assembly of the 
 I've worked with a variety of tools and technologies in the realm of data analysis:
 
 - **Programming Languages:** Python | SQL
-- **Data Analysis:** Excel
-- **Data Visualization:** Excel
+- **Data Analysis:** Python (Pandas, NumPy) | SQL | Excel
+- **Data Visualization:** Python (Matplotlib) | Excel
 - **Misc/Minor Help** ChatGPT
 
 ### 🤝 Let's Connect
