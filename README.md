@@ -26,7 +26,7 @@ I've worked with a variety of tools and technologies in the realm of data analys
 - **Programming Languages:** Python | SQL
 - **Data Analysis:** Python (Pandas, NumPy) | SQL | Excel
 - **Data Visualization:** Python (Matplotlib) | Excel
-- **Misc/Minor Help** ChatGPT
+- **Misc/Minor Help:** ChatGPT
 
 ### 🤝 Let's Connect
 
