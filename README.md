@@ -8,7 +8,7 @@ A passionate learner from the field of Mathematics and Data Analysis at Wrocław
 
 ### 🌱 What I'm Focused On
 
-Currently enhancing my skills in Excel, SQL, Python, and Power BI, I am on a quest to harness the power of data. Moreover, I am on my way to acquire Microsoft Certified: Power BI Data Analyst Associate. I’m passionate about applying my knowledge to real-world projects that make a difference.
+Currently committing to a real-life change as a Production Data Analysis Intern at Nomagic AI, where I'm practically enhancing my data analysis skills.
 
 ### ✨ Featured - Better Tomorrow for a Student from Greater Poland
 - Excel real-life dashboard project made in liaise with the Youth Assembly of the Greater Poland Voivodeship | [View](https://github.com/DominikKukla/Yough-Assembly-Excel)
@@ -29,9 +29,9 @@ Currently enhancing my skills in Excel, SQL, Python, and Power BI, I am on a que
 I've worked with a variety of tools and technologies in the realm of data analysis:
 
 - **Programming Languages:** Python | SQL
-- **Data Analysis:** Pandas | SQL | Excel
-- **Data Visualization:** Matplotlib | Excel
-- **Machine Learning:** PyTorch
+- **Data Analysis:** Pandas | SQL | Excel | Power BI
+- **Data Visualization:** Matplotlib | Excel | Power BI
+- **Machine Learning:** PyTorch | Scikit-learn
 - **Misc/Minor Help:** ChatGPT
 
 ### 🤝 Let's Connect
