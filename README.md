@@ -8,7 +8,7 @@ A passionate learner from the field of Mathematics and Data Analysis at Wrocław
 
 ### 🌱 What I'm Focused On
 
-Currently committing to a real-life change as a Production Data Analysis Intern at Nomagic AI, where I'm practically enhancing my data analysis skills.
+Currently committing to a real-life change as a Production Data Analysis at Nomagic AI.
 
 ### ✨ Featured - Better Tomorrow for a Student from Greater Poland
 - Excel real-life dashboard project made in liaise with the Youth Assembly of the Greater Poland Voivodeship | [View](https://github.com/DominikKukla/Yough-Assembly-Excel)
