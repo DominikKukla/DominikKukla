@@ -1,41 +1,50 @@
-# 👋 Hi, I'm Dominik
+# Hi, I'm Dominik 👋
 
-## Curious Data Analyst
+## Production Data Analyst
 
-A passionate learner from the field of Mathematics and Data Analysis at Wrocław University of Science and Technology, diving deep into data to uncover insights and make data-driven decisions.
+I work as a Production Data Analyst, analyzing large-scale production data and focusing on KPI monitoring, regression analysis, and data-driven decision making.
+
+My professional work revolves around SQL-based analysis and dashboarding. On GitHub, I share selected data analysis and academic projects that complement my commercial experience.
 
 ---
 
-### 🌱 What I'm Focused On
+## Selected Projects
 
-Currently committing to a real-life change as a Production Data Analysis at Nomagic AI.
+### 📊 Better Tomorrow for a Student from Greater Poland
+Excel-based data analysis project conducted in collaboration with the Youth Assembly of the Greater Poland Voivodeship.  
+Involved data cleaning, exploratory analysis, and creation of a seven-panel dashboard to support insights into students’ educational experience.  
+[Repository](https://github.com/DominikKukla/Yough-Assembly-Excel)
 
-### ✨ Featured - Better Tomorrow for a Student from Greater Poland
-- Excel real-life dashboard project made in liaise with the Youth Assembly of the Greater Poland Voivodeship | [View](https://github.com/DominikKukla/Yough-Assembly-Excel)
+### 🧹 Nashville Housing
+SQL-based data cleaning and exploratory data analysis project using MySQL.  
+Focused on data import, cleaning, standardization, deduplication, and extracting insights through aggregations and basic correlation analysis.  
+[Repository](https://github.com/DominikKukla/Nashville-Housing-SQL)
 
-### 💡 Other Data Analysis Projects
+### 🚦 Road Traffic Accidents Analysis
+Exploratory data analysis project developed within a scientific club, using Python, Pandas, and Plotly.  
+Focused on data preprocessing, univariate and multivariate analysis, and visualization of road traffic accident data.  
+[Repository](https://github.com/DominikKukla/Road-Accidents-Analysis-Python)
 
-- **Audible Cleaning** - Excel data cleaning fundamentals project | [View](https://github.com/DominikKukla/Audible-Cleaning-Excel)
-- **Nashville Housing** - SQL data cleaning and EDA project | [View](https://github.com/DominikKukla/Nashville-Housing-SQL)
-- **Road Accidents** - Python data analysis project | [View](https://github.com/DominikKukla/Road-Accidents-Analysis-Python)
+---
 
-### 🧩 Side Projects
+## Background Projects (Academic / Hackathons)
 
-- **CIFAR-10 Image Classification** - Comparison of 4 CNN models on CIFAR-10 dataset | [View](https://github.com/DominikKukla/CIFAR-10-Image-Classifier)
-- **Hackathon Ensemble Learning** - Ensemble learning with fine-tuned models for a hackathon | [View](https://github.com/DominikKukla/Ensemble-learning-for-hackathon)
+The following projects were created as part of academic work and student hackathons and are not representative of my day-to-day professional responsibilities.
 
-### 🛠 Tech Stack
+- CIFAR-10 Image Classification (CNN comparison)  
+- Hackathon Ensemble Learning project  
 
-I've worked with a variety of tools and technologies in the realm of data analysis:
+---
 
-- **Programming Languages:** Python | SQL
-- **Data Analysis:** Pandas | SQL | Excel | Power BI
-- **Data Visualization:** Matplotlib | Excel | Power BI
-- **Machine Learning:** PyTorch | Scikit-learn
-- **Misc/Minor Help:** ChatGPT
+## Tools & Technologies
 
-### 🤝 Let's Connect
+- **SQL** (data analysis, data cleaning, aggregation)  
+- **Excel / Google Sheets** (analysis, dashboards)  
+- **Python** (exploratory data analysis)  
+- **Power BI** (data visualization)
 
-I’m always open to new connections and learning opportunities. Feel free to reach out!
+---
 
-[LinkedIn](https://www.linkedin.com/in/dominik-kukla) | [Facebook](https://www.fb.com/dominik.kuklaa/) 
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/dominik-kukla)
